@@ -1,0 +1,17 @@
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\UnitTestProjectEmp.deps.json
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\UnitTestProjectEmp.runtimeconfig.json
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\UnitTestProjectEmp.runtimeconfig.dev.json
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\UnitTestProjectEmp.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\UnitTestProjectEmp.pdb
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\APITddDemo.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\bin\Debug\netcoreapp2.1\APITddDemo.pdb
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.csprojAssemblyReference.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.csproj.CoreCompileInputs.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.AssemblyInfoInputs.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.AssemblyInfo.cs
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.csproj.CopyComplete
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\UnitTestProjectEmp\obj\Debug\netcoreapp2.1\UnitTestProjectEmp.pdb

@@ -1,0 +1,11 @@
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\bin\Debug\netcoreapp2.0\APITddDemo.deps.json
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\bin\Debug\netcoreapp2.0\APITddDemo.runtimeconfig.json
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\bin\Debug\netcoreapp2.0\APITddDemo.runtimeconfig.dev.json
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\bin\Debug\netcoreapp2.0\APITddDemo.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\obj\Debug\netcoreapp2.0\APITddDemo.csproj.CoreCompileInputs.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\obj\Debug\netcoreapp2.0\APITddDemo.AssemblyInfoInputs.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\obj\Debug\netcoreapp2.0\APITddDemo.AssemblyInfo.cs
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\bin\Debug\netcoreapp2.0\APITddDemo.pdb
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\obj\Debug\netcoreapp2.0\APITddDemo.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\obj\Debug\netcoreapp2.0\APITddDemo.pdb
+C:\Users\jbanerjee\source\repos\APITddDemo\APITddDemo\obj\Debug\netcoreapp2.0\APITddDemo.csprojAssemblyReference.cache

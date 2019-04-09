@@ -1,0 +1,13 @@
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\EmpUnitTest.deps.json
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\EmpUnitTest.runtimeconfig.json
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\EmpUnitTest.runtimeconfig.dev.json
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\EmpUnitTest.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\bin\Debug\netcoreapp2.1\EmpUnitTest.pdb
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\obj\Debug\netcoreapp2.1\EmpUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\obj\Debug\netcoreapp2.1\EmpUnitTest.AssemblyInfoInputs.cache
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\obj\Debug\netcoreapp2.1\EmpUnitTest.AssemblyInfo.cs
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\obj\Debug\netcoreapp2.1\EmpUnitTest.dll
+C:\Users\jbanerjee\source\repos\APITddDemo\EmpUnitTest\obj\Debug\netcoreapp2.1\EmpUnitTest.pdb
